@@ -14,7 +14,7 @@ This repository is organized by script hash type and code hash. When a script is
 }
 ```
 
-The corresponding error codes page is `by-data-hash/0x12..90.md`.
+The corresponding error codes page is `by-data-hash/12..90.md`. Pay attention that the prefix `0x` is not included in the file name.
 
 When a script is referenced by type hash
 
@@ -26,7 +26,7 @@ When a script is referenced by type hash
 }
 ```
 
-The corresponding error codes page is `by-type-hash/0xab..ef.md`.
+The corresponding error codes page is `by-type-hash/0xab..ef.md`. Pay attention that the prefix `0x` is not included in the file name.
 
 ## Error Code Anchors
 
