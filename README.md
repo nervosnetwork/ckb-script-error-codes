@@ -47,8 +47,8 @@ Please use HTML anchors for error codes. For example, the erorr message will lin
 * secp256k1-blake160-sighash-all
     * By type hash [9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8](by-type-hash/9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8.md)
     * By data hash
-        * [709f3fda12f561cfacf92273c57a98fede188a3f1a59b1f888d113f9cce08649](by-data-hash/709f3fda12f561cfacf92273c57a98fede188a3f1a59b1f888d113f9cce08649.md) (the current version)
+        * [709f3fda12f561cfacf92273c57a98fede188a3f1a59b1f888d113f9cce08649](by-data-hash/709f3fda12f561cfacf92273c57a98fede188a3f1a59b1f888d113f9cce08649.md) (the latest version)
 * secp256k1-blake160-multisig-all
     * By type hash [5c5069eb0857efc65e1bca0c07df34c31663b3622fd3876c876320fc9634e2a8](by-type-hash/5c5069eb0857efc65e1bca0c07df34c31663b3622fd3876c876320fc9634e2a8.md)
     * By data hash
-        * [43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb](by-data-hash/43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb.md) (the current version)
+        * [43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb](by-data-hash/43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb.md) (the latest version)
