@@ -35,3 +35,20 @@ The corresponding error codes page is `by-type-hash/ab..ef.md`. Pay attention th
 ## Error Code Anchors
 
 Please use HTML anchors for error codes. For example, the erorr message will link to `#-1` for error code `-1`. Since GitHub Pages automatically create anchors for or headers, just add the title for each error code.
+
+## Index
+
+* TYPE\_ID
+    * By type hash [00000000000000000000000000000000000000000000000000545950455f4944](by-type-hash/00000000000000000000000000000000000000000000000000545950455f4944.md)
+* DAO
+    * By type hash [82d76d1b75fe2fd9a27dfbaa65a039221a380d76c926f378d3f81cf3e7e13f2e](by-type-hash/82d76d1b75fe2fd9a27dfbaa65a039221a380d76c926f378d3f81cf3e7e13f2e.md)
+    * By data hash
+        * [32064a14ce10d95d4b7343054cc19d73b25b16ae61a6c681011ca781a60c7923](by-data-hash/32064a14ce10d95d4b7343054cc19d73b25b16ae61a6c681011ca781a60c7923.md) (the latest version)
+* secp256k1-blake160-sighash-all
+    * By type hash [9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8](by-type-hash/9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8.md)
+    * By data hash
+        * [709f3fda12f561cfacf92273c57a98fede188a3f1a59b1f888d113f9cce08649](by-data-hash/709f3fda12f561cfacf92273c57a98fede188a3f1a59b1f888d113f9cce08649.md) (the current version)
+* secp256k1-blake160-multisig-all
+    * By type hash [5c5069eb0857efc65e1bca0c07df34c31663b3622fd3876c876320fc9634e2a8](by-type-hash/5c5069eb0857efc65e1bca0c07df34c31663b3622fd3876c876320fc9634e2a8.md)
+    * By data hash
+        * [43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb](by-data-hash/43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb.md) (the current version)
