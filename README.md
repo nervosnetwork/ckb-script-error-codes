@@ -2,6 +2,10 @@
 
 Please use Pull requests to submit error codes for your CKB scripts.
 
+## Disclaimer
+
+The content of this repository is contributed by the community. Nervos Foundation will not verify that the content submitter is the author of the CKB script. Please use the information carefully, and restrict the usage in development debugging.
+
 ## How to Add New Script
 
 This repository is organized by script hash type and code hash. When a script is referenced by data hash:
