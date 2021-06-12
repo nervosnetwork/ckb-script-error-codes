@@ -26,7 +26,7 @@ When a script is referenced by type hash
 }
 ```
 
-The corresponding error codes page is `by-type-hash/0xab..ef.md`. Pay attention that the prefix `0x` is not included in the file name.
+The corresponding error codes page is `by-type-hash/ab..ef.md`. Pay attention that the prefix `0x` is not included in the file name.
 
 ## Error Code Anchors
 
