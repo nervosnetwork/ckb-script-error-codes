@@ -52,3 +52,8 @@ Please use HTML anchors for error codes. For example, the erorr message will lin
     * By type hash [5c5069eb0857efc65e1bca0c07df34c31663b3622fd3876c876320fc9634e2a8](by-type-hash/5c5069eb0857efc65e1bca0c07df34c31663b3622fd3876c876320fc9634e2a8.md)
     * By data hash
         * [43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb](by-data-hash/43400de165f0821abf63dcac299bbdf7fd73898675ee4ddb099b0a0d8db63bfb.md) (the latest version)
+
+* RGB++
+    * By type hash [0xbc6c568a1a0d0a09f6844dc9d74ddb4343c32143ff25f727c59edf4fb72d6936](by-type-hash/0xbc6c568a1a0d0a09f6844dc9d74ddb4343c32143ff25f727c59edf4fb72d6936.md)
+* BTC Time lock
+    * By type hash [0x70d64497a075bd651e98ac030455ea200637ee325a12ad08aff03f1a117e5a62](by-type-hash/0x70d64497a075bd651e98ac030455ea200637ee325a12ad08aff03f1a117e5a62.md)
