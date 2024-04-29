@@ -57,3 +57,8 @@ Please use HTML anchors for error codes. For example, the erorr message will lin
     * By type hash [bc6c568a1a0d0a09f6844dc9d74ddb4343c32143ff25f727c59edf4fb72d6936](by-type-hash/bc6c568a1a0d0a09f6844dc9d74ddb4343c32143ff25f727c59edf4fb72d6936.md)
 * BTC Time lock
     * By type hash [70d64497a075bd651e98ac030455ea200637ee325a12ad08aff03f1a117e5a62](by-type-hash/70d64497a075bd651e98ac030455ea200637ee325a12ad08aff03f1a117e5a62.md)
+* Omnilock
+    * By type hash [9b819793a64463aed77c615d6cb226eea5487ccfc0783043a587254cda2b6f26](by-type-hash/9b819793a64463aed77c615d6cb226eea5487ccfc0783043a587254cda2b6f26.md)
+* xUDT
+    * By data hash [50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95](by-data-hash/50bd8d6680b8b9cf98b73f3c08faf8b2a21914311954118ad6609be6e78a1b95.md)
+
